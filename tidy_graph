@@ -1,3 +1,4 @@
+##created by Rhiannon Peery
 setwd("~/Documents/Bioinfo_BIOL633/week6_dataManagement")
 temp <- read.csv("temp_graph.csv", header = T)
 names(temp)
